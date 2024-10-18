@@ -2,4 +2,4 @@
 
 var solution = new Solution();
 
-Console.WriteLine(solution.MaxProfit([1, 2]));
+Console.WriteLine(solution.MaxProfitII([7, 1, 5, 3, 1, 4]));
