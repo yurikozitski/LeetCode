@@ -2,4 +2,4 @@
 
 var solution = new Solution();
 
-Console.WriteLine(solution.HasPathSum(TestDataForPathSum.GetRoot1(), 5));
+Console.WriteLine(solution.SingleNumber([4, 1, 2, 1, 2]));
