@@ -2,4 +2,4 @@
 
 var solution = new Solution();
 
-Console.WriteLine(solution.GetRow(3));
+Console.WriteLine(solution.TriangularSum([5]));
