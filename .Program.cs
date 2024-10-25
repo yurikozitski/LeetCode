@@ -2,4 +2,4 @@
 
 var solution = new Solution();
 
-Console.WriteLine(solution.Generate(5));
+Console.WriteLine(solution.GetRow(3));
