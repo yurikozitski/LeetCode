@@ -2,4 +2,4 @@
 
 var solution = new Solution();
 
-Console.WriteLine(solution.TriangularSum([5]));
+Console.WriteLine(solution.AddDigits(38));
