@@ -2,4 +2,4 @@
 
 var solution = new Solution();
 
-Console.WriteLine(solution.AddDigits(38));
+Console.WriteLine(solution.RemoveElements(DataForRemoveElements.GetNodes1(), 6));
