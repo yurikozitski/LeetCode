@@ -2,4 +2,5 @@
 
 var solution = new Solution();
 
-Console.WriteLine(solution.RemoveElements(DataForRemoveElements.GetNodes1(), 6));
+solution.MoveZeroes([0, 1, 0, 3, 12]);
+Console.WriteLine();
