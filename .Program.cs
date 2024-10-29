@@ -2,5 +2,4 @@
 
 var solution = new Solution();
 
-solution.MoveZeroes([0, 1, 0, 3, 12]);
-Console.WriteLine();
+Console.WriteLine(solution.MajorityElement([3, 3, 4]));
