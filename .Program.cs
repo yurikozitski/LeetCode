@@ -2,4 +2,4 @@
 
 var solution = new Solution();
 
-Console.WriteLine(solution.MajorityElement([3, 3, 4]));
+Console.WriteLine(solution.ReverseListWithStack(DataForReverseList.GetHead()));
