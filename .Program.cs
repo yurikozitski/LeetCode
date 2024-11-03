@@ -2,5 +2,5 @@
 
 var solution = new Solution();
 
-//Console.WriteLine(solution.ReverseListWithStack(DataForReverseList.GetHead()));
-solution.ReverseString(['h', 'e', 'l', 'l', 'o']);
+Console.WriteLine(solution.SmallestFromLeaf(DataForSmallestFromLeaf.CreateTree()));
+//solution.ReverseString(['h', 'e', 'l', 'l', 'o']);
