@@ -2,5 +2,5 @@
 
 var solution = new Solution();
 
-Console.WriteLine(solution.SmallestFromLeaf(DataForSmallestFromLeaf.CreateTree()));
+Console.WriteLine(solution.RotateString("abcde", "fclko"));
 //solution.ReverseString(['h', 'e', 'l', 'l', 'o']);
