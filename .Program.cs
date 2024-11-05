@@ -2,5 +2,5 @@
 
 var solution = new Solution();
 
-Console.WriteLine(solution.RotateString("abcde", "fclko"));
+Console.WriteLine(solution.FirstUniqChar("loveleetcode"));
 //solution.ReverseString(['h', 'e', 'l', 'l', 'o']);
