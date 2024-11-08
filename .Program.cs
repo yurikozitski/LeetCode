@@ -2,5 +2,5 @@
 
 var solution = new Solution();
 
-Console.WriteLine(solution.SumOfLeftLeaves(DataForSumOfLeftLeaves.GetTreeNode1()));
+Console.WriteLine(solution.AddStrings("456", "77"));
 //solution.ReverseString(['h', 'e', 'l', 'l', 'o']);
