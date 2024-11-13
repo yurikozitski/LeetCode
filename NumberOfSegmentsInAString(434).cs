@@ -4,7 +4,7 @@
     {
         public int CountSegments(string s)
         {
-            string sTrimmed = s.Trim();
+            string? sTrimmed = s?.Trim();
 
             if (string.IsNullOrEmpty(sTrimmed))
             {
