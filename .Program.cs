@@ -2,5 +2,5 @@
 
 var solution = new Solution();
 
-Console.WriteLine(solution.IslandPerimeter([[0, 1, 0, 0], [1, 1, 1, 0], [0, 1, 0, 0], [1, 1, 0, 0]]));
+Console.WriteLine(solution.FindComplement(5));
 //solution.ReverseString(['h', 'e', 'l', 'l', 'o']);
