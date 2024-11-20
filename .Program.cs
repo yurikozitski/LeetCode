@@ -2,5 +2,5 @@
 
 var solution = new Solution();
 
-Console.WriteLine(solution.LicenseKeyFormatting("2-5g-3-J", 2));
+Console.WriteLine(solution.NextGreaterElement([4, 1, 2], [1, 3, 4, 2]));
 //solution.ReverseString(['h', 'e', 'l', 'l', 'o']);
