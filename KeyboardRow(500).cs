@@ -7,20 +7,18 @@
             Dictionary<char, int> keyboardDict = new Dictionary<char, int>(); 
 
             string row1 = "qwertyuiop"; 
+            string row2 = "asdfghjkl"; 
+            string row3 = "zxcvbnm"; 
 
             foreach (char c in row1) 
             { 
                 keyboardDict[c] = 1; 
             }  
 
-            string row2 = "asdfghjkl"; 
-
             foreach (char c in row2) 
             { 
                 keyboardDict[c] = 2; 
             } 
-
-            string row3 = "zxcvbnm"; 
 
             foreach (char c in row3) 
             { 
