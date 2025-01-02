@@ -2,5 +2,5 @@
 
 var solution = new Solution();
 
-Console.WriteLine(solution.MatrixReshape([[1, 2], [3, 4]], 1, 4));
+Console.WriteLine(solution.IsSubtree(DataForIsSubtree.DataForIsSubtree_1(), DataForIsSubtree.DataForIsSubtree_2()));
 //solution.ReverseString(['h', 'e', 'l', 'l', 'o']);
