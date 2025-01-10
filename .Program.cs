@@ -2,5 +2,5 @@
 
 var solution = new Solution();
 
-Console.WriteLine(solution.IsSubtree(DataForIsSubtree.DataForIsSubtree_1(), DataForIsSubtree.DataForIsSubtree_2()));
+Console.WriteLine(solution.FindMaxAverage([1, 12, -5, -6, 50, 3], 4));
 //solution.ReverseString(['h', 'e', 'l', 'l', 'o']);
