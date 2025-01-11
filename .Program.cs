@@ -2,5 +2,5 @@
 
 var solution = new Solution();
 
-Console.WriteLine(solution.FindMaxAverage([1, 12, -5, -6, 50, 3], 4));
+Console.WriteLine(solution.FindTarget(DataForFindTarget.GetTreeNode1(), -2));
 //solution.ReverseString(['h', 'e', 'l', 'l', 'o']);
